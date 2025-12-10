@@ -51,36 +51,61 @@ Demostré mi capacidad para enfrentar un ciclo de pruebas completo y trabajar en
 
 ---
 
-## 🤖 **Proyecto 2: Automatización con Cypress – Urban Routes**  
-📁 **Repositorio:**  
-👉 https://github.com/bibianasepulveda45/qa-project-Urban-Routes-es
+# 🚕 Proyecto de Pruebas Automatizadas – Urban Routes
 
-### 🎯 Objetivo  
-Automatizar el flujo principal para reducir tiempos de regresión y aumentar estabilidad.
+![Urban Routes](https://cdn.pixabay.com/photo/2016/11/23/15/45/taxi-1853380_960_720.jpg)
 
-### ⚙️ Lo que desarrollé  
-- Pruebas e2e usando **Cypress**.  
-- Validación de formularios, interfaz y mensajes.  
-- Uso de buenas prácticas: `fixtures`, `commands`, modularidad.  
-- Documentación dentro del repositorio.
+## 📌 Descripción del proyecto  
+Este proyecto contiene las **pruebas automatizadas** del flujo principal de la aplicación **Urban Routes**, una plataforma de solicitud de viajes.  
+El objetivo es validar que el usuario pueda **solicitar un taxi correctamente**, verificando cada paso crítico del proceso.
 
-### 📘 Resultado  
-Comprendí la importancia de una automatización estable y escalable dentro del proceso QA.
+Las pruebas fueron desarrolladas utilizando **Python**, **Selenium WebDriver** y **Pytest** como framework de ejecución.
 
 ---
 
-## 🧰 Tecnologías & Herramientas
-
-<p align="left">
-<img src="https://img.shields.io/badge/Cypress-0A927D?style=for-the-badge&logo=cypress&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+## 🎯 Objetivos del testing  
+- Verificar el correcto funcionamiento del flujo principal de solicitud de taxis.  
+- Validar que los elementos de la interfaz respondan según lo esperado.  
+- Asegurar la estabilidad y la repetibilidad de las pruebas automatizadas.  
 
 ---
+
+## 🧰 Herramientas y tecnologías utilizadas
+
+| Herramienta | Uso |
+|------------|------|
+| **Python** | Lenguaje de programación |
+| **Pytest** | Ejecución y estructura de las pruebas |
+| **Selenium WebDriver** | Automatización del navegador |
+| **ChromeDriver** | Control del navegador Chrome |
+| **Git / GitHub** | Control de versiones |
+
+---
+
+## 🧪 Flujo Automatizado: Solicitud de taxi  
+Las pruebas automatizan el siguiente flujo completo:
+
+1. Ingresar a la aplicación.  
+2. Ingresar dirección de **origen**.  
+3. Ingresar dirección de **destino**.  
+4. Seleccionar tipo de servicio.  
+5. Confirmar la solicitud del viaje.  
+6. Validar que se genera el viaje correctamente.  
+
+Cada paso incluye validaciones mediante **asserts**, manejo de espera explícita y verificación de elementos clave de la interfaz.
+
+---
+
+## 🧩 Resultado final
+
+Las pruebas permiten verificar el flujo principal de Urban Routes de manera automática, aumentando la confianza en la funcionalidad crítica de la aplicación.
+
+---
+
+## 👩‍💻 Comentario personal
+
+Este proyecto me permitió reforzar habilidades prácticas en automatización con Selenium, diseño de scripts de prueba, manejo de Pytest y buenas prácticas de QA.
+
 
 ## 📫 Contacto
 ¿Te interesa conocer más de mis proyectos o colaborar?  
