@@ -7,11 +7,19 @@
 
 ---
 
-## ⭐ Sobre mí
+## 🧑‍💼 Sobre mí
 
-Soy una QA Tester en transición profesional, con experiencia previa en soporte de plataformas e-learning y formación especializada en pruebas de software a través del bootcamp de **TripleTen**.
+Mi curiosidad me impulsa a explorar, analizar y asegurar que cada detalle cuente. La calidad siempre ha guiado mi trabajo, y hoy aplico esa misma mentalidad en mi transición hacia el mundo del aseguramiento de calidad (QA).
 
-Me motiva asegurar que los productos digitales funcionen con calidad, estabilidad y una excelente experiencia para el usuario. Disfruto analizar, probar y encontrar mejoras que impacten positivamente en el producto final.
+Después de algunos años brindando soporte y administrando plataformas e-learning para universidades corporativas, descubrí que lo que más disfruto es analizar, mejorar y garantizar que todo funcione de manera impecable. Ese interés me llevó a especializarme en QA.
+
+Mi experiencia previa me ha dado una base sólida en resolución de problemas, atención al detalle, documentación clara y colaboración con equipos técnicos y no técnicos. A esto se suma mi formación en el bootcamp de QA Engineering de TripleTen, donde reforcé mi enfoque analítico y mi capacidad para entender cómo debe comportarse un producto digital antes de llegar al usuario final.
+
+Soy una persona organizada, orientada al usuario y comprometida con la mejora continua. Me motiva transformar problemas en soluciones y asegurar que cada proceso funcione como se espera. Actualmente me encuentro en transición hacia un rol de QA y busco una oportunidad donde pueda aportar mi experiencia previa en tecnología mientras sigo creciendo profesionalmente.
+
+Me caracterizo por mi comunicación clara, organización, constancia y rapidez para aprender nuevas herramientas y metodologías como Scrum. Me interesa trabajar en entornos colaborativos donde la calidad y la mejora continua sean prioridades.
+
+Además de la tecnología, disfruto actividades que requieren análisis y creatividad, como la lectura y el aprendizaje autodidacta. Mi objetivo profesional es iniciar mi carrera como QA Engineer, aportar al desarrollo de productos confiables y avanzar hacia áreas como automatización y análisis avanzado de calidad.
 
 ---
 
