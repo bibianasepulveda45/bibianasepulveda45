@@ -108,5 +108,6 @@ Este proyecto me permitió reforzar habilidades prácticas en automatización co
 
 
 ## 📫 Contacto
-¿Te interesa conocer más de mis proyectos o colaborar?  
-👉 **Escríbeme en LinkedIn, estaré encantada de conversar.**
+
+🔗 **LinkedIn:** www.linkedin.com/in/bibiana-sepúlveda-ramírez  
+📧 **Correo:** sbibianasepulveda@gmail.com
