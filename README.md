@@ -53,7 +53,7 @@ Demostré mi capacidad para enfrentar un ciclo de pruebas completo y trabajar en
 
 # 🚕 Proyecto de Pruebas Automatizadas – Urban Routes
 
-![Urban Routes](https://cdn.pixabay.com/photo/2016/11/23/15/45/taxi-1853380_960_720.jpg)
+[![Urban Routes](https://cdn.pixabay.com/photo/2016/11/23/15/45/taxi-1853380_960_720.jpg)](https://github.com/bibianasepulveda45/qa-project-Urban-Routes-es)
 
 ## 📌 Descripción del proyecto  
 Este proyecto contiene las **pruebas automatizadas** del flujo principal de la aplicación **Urban Routes**, una plataforma de solicitud de viajes.  
