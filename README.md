@@ -23,20 +23,6 @@ Además de la tecnología, disfruto actividades que requieren análisis y creati
 
 ---
 
-## 🔗 Conecta conmigo
-
-<p align="left">
-<a href="https://www.linkedin.com/in/bibiana-sepúlveda-ramírez" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/bibianasepulveda45" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
 # 🚀 Proyectos Destacados
 
 ---
